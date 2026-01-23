@@ -24,7 +24,7 @@ Sweeta is an AI-powered watermark removal tool specifically designed for SORA 2 
 
 ---
 ### Recommended Specs:
-- **OS**: Windows 11, macOS 12+, or Ubuntu 20.04+
+- **OS**: Windows 10-11, macOS 12+, or Ubuntu 20.04+
 - **RAM**: 16GB or more
 - **Storage**: 10GB free space
 - **GPU**: NVIDIA GPU with 4GB+ VRAM (or Apple Silicon for macOS)
